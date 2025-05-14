@@ -14,7 +14,7 @@ import cv2
 
 
 
-BOT_TOKEN = '7673260217:AAFasP6465ea5-faLej6PWMkGR7u2ylMJpI'
+BOT_TOKEN = ''
 router = Router()
 
 model = YOLO("yolov8n.pt")
